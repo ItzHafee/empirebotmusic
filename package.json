@@ -2,11 +2,11 @@
 	"name": "JMusicBot",
 	"version": "0.3.4",
 	"description": "Say @ help",
-	"main": "index.js",
+	"main": "config.js",
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
+	     "test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"keywords": [],
-	"author": "",
+	"author": "Jagrosh",
 	"license": "ISC"
 }
